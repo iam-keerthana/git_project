@@ -1,0 +1,2 @@
+git is version controlling system
+git hub is a platfrom for version controlling and collaboration
